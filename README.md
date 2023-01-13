@@ -1,5 +1,5 @@
 # jcrenzy.github.io
-This is <b>Jed Clarence Simando BADIOLA</b> 💙
+This is <b>Jed Clarence Simando BADIOLA</b> 
 
 ---
 
