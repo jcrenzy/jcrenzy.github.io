@@ -9,3 +9,7 @@ This is <b>Jed Clarence Simando BADIOLA</b>
 ---
 My Schedule
 ---
+| Sunday |  Monday |  Tuesday  | Wednesday |Thursday| Friday | Saturday |
+| ------ | --------| --------  |-----------|--------|---------
+|    Me  |    Me   |     Me    |     Me    |    Me  | 
+|--------|---------|-----------|-----------|--------|
