@@ -9,5 +9,7 @@ This is <b>Jed Clarence Simando BADIOLA</b>
 [`YouTube`](https://www.youtube.com/@jedclarencebadiola3011/featured)
 
 ---
-My Schedule
+Hours of Learning for A Subject
 ---
+
+| AP | CLE | 
