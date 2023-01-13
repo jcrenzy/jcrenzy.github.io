@@ -3,4 +3,9 @@ This is <b>Jed Clarence Simando BADIOLA</b>
 
 ---
 
-[`Interlude`](https://youtu.be/xy3AcmW0lrQ)
+[`Facebook`](https://m.facebook.com/people/Jed-Clarence/100074252302098/)
+[`YouTube`](https://www.youtube.com/@jedclarencebadiola3011/featured)
+
+---
+My Schedule
+---
