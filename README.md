@@ -9,7 +9,4 @@ This is <b>Jed Clarence Simando BADIOLA</b>
 [`YouTube`](https://www.youtube.com/@jedclarencebadiola3011/featured)
 
 ---
-Hours of Learning for A Subject
----
-
-| AP | CLE | 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/70MdT6cxoZGFfQMjDIx8ij?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
