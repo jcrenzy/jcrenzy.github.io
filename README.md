@@ -19,4 +19,4 @@ To settle the mood?
 
 ---
 
-<img src="[Link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F507956-spongebob-squarepants&psig=AOvVaw16BAsakle71MlpDriTFCyd&ust=1673915982981000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjvrIntyvwCFQAAAAAdAAAAABAE)" width="100" height="100">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fphotos%2F507956-spongebob-squarepants&psig=AOvVaw16BAsakle71MlpDriTFCyd&ust=1673915982981000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMjvrIntyvwCFQAAAAAdAAAAABAE" width="100" height="100">
