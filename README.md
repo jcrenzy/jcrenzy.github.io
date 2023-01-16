@@ -6,7 +6,7 @@
 ---
 
 <b>Links</b>
-You don't need this :)
+This, you don't need :)
 
 [`Facebook`](https://m.facebook.com/people/Jed-Clarence/100074252302098/)
 [`YouTube`](https://www.youtube.com/@jedclarencebadiola3011/featured)
